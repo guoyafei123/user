@@ -1,0 +1,21 @@
+touch index.html   创建文件
+git init   创建本地仓库    初始化
+git add index.html  添加
+git status   查看状态
+git commit 提交
+git commit -m "index.html" 提交
+
+
+
+
+
+touch index.html  创建文件
+git init   初始化
+git add .     提交全部文件
+git status   查看状态
+touch .gitignore    隐藏
+git log 查看日志
+git pull 更新
+git push 上传	
+git commit 提交
+git commit -m "index.html" 提交
